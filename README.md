@@ -16,6 +16,7 @@ This app is designed for students to help them either get into good study habits
 
 ## Building from source
 git clone https://github.com/VictorJG0/75-Hard-Study-Edition
+
 cd repo
 
 ## Running the app
