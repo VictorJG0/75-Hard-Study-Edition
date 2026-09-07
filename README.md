@@ -1,5 +1,5 @@
 # 75 Hard (Study Edition)
-A rebranded version of th 75 Hard challenge meant for studying. 
+A rebranded version of the 75 Hard challenge meant for studying. 
 
 ## Overview
 This app is designed for students to help them either get into good study habits and routines or to help them stay on track with their current study habits. The app will provide a daily checklist of tasks to complete, as well as a progress tracker to monitor your performance over time.
